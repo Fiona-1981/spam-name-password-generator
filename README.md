@@ -12,4 +12,3 @@ Paul suggested it would be a great idea to create a password generator based on 
 I read the contents this morning and it still made me chuckle out loud and snigger quite a bit.
 
 Thinking about it, I'd love to see the code that was generating those names all those years ago. Pretty rudimentary, I'd imagine.
-tes test tes
